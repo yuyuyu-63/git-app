@@ -45,7 +45,10 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 
+
+gem 'pry-rails'
 gem 'devise'
+
 
 
 group :development, :test do
